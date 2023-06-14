@@ -62,5 +62,6 @@ body {
 @media (max-width: 600px) {
   .column {
     width: 100%;
+    float: none;
   }
 }
